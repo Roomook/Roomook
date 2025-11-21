@@ -11,7 +11,7 @@ Roomook is building a bridge between the **physical rental market** and the **di
 - 🎮 **Roomook Monopoly** — GameFi platform simulating property strategy  
 - 🛠 **Automation & APIs** — For property management, booking, and token integration  
 
-🔗 [Explore the ecosystem](https://crypto.roomook.com/monopoly-en)
+🔗 [Explore the ecosystem](https://roomookcoin.com/monopoly-en)
 
 ---
 
