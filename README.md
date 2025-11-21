@@ -42,7 +42,7 @@ Coming soon:
 ## 📬 Join the Community
 
 - Telegram (Announcements): [t.me/ROOMOOK_MONOPOLY](https://t.me/ROOMOOK_MONOPOLY)  
-- Website: [crypto.roomook.com/monopoly-en](https://crypto.roomook.com/monopoly-en)
+- Website: [https://roomookcoin.com/monopoly-en](https://roomookcoin.com)
 
 🛡 *This is the only official GitHub account of the Roomook project. Always verify links and addresses.*
 
